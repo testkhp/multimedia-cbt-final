@@ -1,0 +1,95 @@
+{
+  "version": "student-element-knowledge-v6",
+  "units": 10,
+  "elements": 60,
+  "topics": 163,
+  "terms": 582,
+  "questions": 600,
+  "linkedQuestions": 600,
+  "unlinkedQuestionIds": [],
+  "invalidQuestionIds": [],
+  "crossUnitLinks": [],
+  "unusedSourceIds": [],
+  "perUnit": [
+    {
+      "unit": "디지털색채 운용",
+      "elements": 6,
+      "topics": 18,
+      "terms": 71,
+      "questions": 60,
+      "linkedQuestions": 60
+    },
+    {
+      "unit": "애니메이션",
+      "elements": 8,
+      "topics": 14,
+      "terms": 54,
+      "questions": 60,
+      "linkedQuestions": 60
+    },
+    {
+      "unit": "종합편집",
+      "elements": 12,
+      "topics": 17,
+      "terms": 60,
+      "questions": 60,
+      "linkedQuestions": 60
+    },
+    {
+      "unit": "응용SW 기초 기술 활용",
+      "elements": 6,
+      "topics": 22,
+      "terms": 71,
+      "questions": 60,
+      "linkedQuestions": 60
+    },
+    {
+      "unit": "스토리보드 제작",
+      "elements": 2,
+      "topics": 15,
+      "terms": 56,
+      "questions": 60,
+      "linkedQuestions": 60
+    },
+    {
+      "unit": "화면 구현",
+      "elements": 5,
+      "topics": 17,
+      "terms": 63,
+      "questions": 60,
+      "linkedQuestions": 60
+    },
+    {
+      "unit": "디자인 구성요소 설계",
+      "elements": 4,
+      "topics": 15,
+      "terms": 56,
+      "questions": 60,
+      "linkedQuestions": 60
+    },
+    {
+      "unit": "CGI/VFX 확정",
+      "elements": 7,
+      "topics": 15,
+      "terms": 58,
+      "questions": 60,
+      "linkedQuestions": 60
+    },
+    {
+      "unit": "디자인 구성요소 제작",
+      "elements": 6,
+      "topics": 15,
+      "terms": 48,
+      "questions": 60,
+      "linkedQuestions": 60
+    },
+    {
+      "unit": "영상콘텐츠 기획",
+      "elements": 4,
+      "topics": 15,
+      "terms": 45,
+      "questions": 60,
+      "linkedQuestions": 60
+    }
+  ]
+}
